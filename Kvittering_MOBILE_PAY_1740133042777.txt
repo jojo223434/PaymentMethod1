@@ -1,0 +1,4 @@
+Kvittering for betaling:
+Beløb: 600.0 kr.
+Metode: MobilePay
+Dato: 2025-02-21
